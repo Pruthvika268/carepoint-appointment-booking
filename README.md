@@ -1,3 +1,4 @@
+
 # CarePoint — Appointment Booking App
 
 CarePoint is a responsive appointment booking web application built as a full-stack project. It supports booking appointments, viewing saved appointments, changing appointment status, deleting records, and optionally generating an AI-written summary of the patient's stated reason for visiting.
@@ -151,3 +152,4 @@ For detailed, beginner-friendly instructions to create a GitHub repository and d
 - The app currently has no login or staff permissions; anyone who can reach the API may be able to view or change appointment records. Do not expose real patient data until authentication and access control are added.
 - The AI provider receives the reason for visiting sent to its API. Confirm that this is permitted before using sensitive health information.
 - Use database backups and review your hosting provider's data retention, privacy, and free-tier limitations.
+# carepoint-appointment-booking
