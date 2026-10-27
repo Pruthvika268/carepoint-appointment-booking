@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage/
+
+# Local persistent database (may contain patient data)
+backend/data/
+.vercel/
